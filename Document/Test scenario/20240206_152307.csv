@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FaceBook_TestSuite_RegistrationValidation_002,Chrome 121.0.0.0,,,06-02-2024 15:24:11,06-02-2024 15:29:58,5m - 47.551s,PASSED
+,,,,,,,
+Test Cases/TC_FaceBook_RegistrationValidatio_002,Chrome 121.0.0.0,,,06-02-2024 15:24:11,06-02-2024 15:29:57,5m - 45.346s,PASSED

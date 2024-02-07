@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FaceBook_TestSuite_Login_001,Chrome 121.0.0.0,,,06-02-2024 15:24:37,06-02-2024 15:25:23,46.557s,PASSED
+,,,,,,,
+Test Cases/TC_FaceBook_Login_001,Chrome 121.0.0.0,,,06-02-2024 15:24:38,06-02-2024 15:25:22,44.024s,PASSED

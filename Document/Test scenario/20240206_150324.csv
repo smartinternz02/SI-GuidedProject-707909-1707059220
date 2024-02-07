@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FaceBook_TestSuite_RegistrationValidation_002,Chrome 121.0.0.0,,,06-02-2024 15:03:33,06-02-2024 15:09:20,5m - 47.174s,PASSED
+,,,,,,,
+Test Cases/TC_FaceBook_RegistrationValidatio_002,Chrome 121.0.0.0,,,06-02-2024 15:03:33,06-02-2024 15:09:19,5m - 45.199s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 15:03:34,06-02-2024 15:03:34,0.172s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 15:03:34,06-02-2024 15:03:38,3.488s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 121.0.0.0,,,06-02-2024 15:03:38,06-02-2024 15:03:40,2.177s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/a_Create new account""))",Chrome 121.0.0.0,,,06-02-2024 15:03:40,06-02-2024 15:04:12,31.714s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_8e27d1""), ""anpu"")",Chrome 121.0.0.0,,,06-02-2024 15:04:12,06-02-2024 15:05:17,1m - 5.768s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_342d17""), ""krish"")",Chrome 121.0.0.0,,,06-02-2024 15:05:17,06-02-2024 15:06:25,1m - 7.916s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_554ec3""), ""6380303221"")",Chrome 121.0.0.0,,,06-02-2024 15:06:25,06-02-2024 15:07:34,1m - 9.081s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_7f0a99""), ""anpukrish"")",Chrome 121.0.0.0,,,06-02-2024 15:07:34,06-02-2024 15:07:38,3.910s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Facebook  log in or sign up/select_123456789101112131415161718192021222_566da4""), ""11"", true)",Chrome 121.0.0.0,,,06-02-2024 15:07:38,06-02-2024 15:07:45,6.329s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Facebook  log in or sign up/select_JanFebMarAprMayJunJulAugSepOctNovDec""), ""7"", true)",Chrome 121.0.0.0,,,06-02-2024 15:07:45,06-02-2024 15:07:50,5.764s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Facebook  log in or sign up/select_202420232022202120202019201820172016_7237a8""), ""2001"", true)",Chrome 121.0.0.0,,,06-02-2024 15:07:50,06-02-2024 15:07:57,6.930s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Facebook  log in or sign up/select_202420232022202120202019201820172016_7237a8""), ""2002"", true)",Chrome 121.0.0.0,,,06-02-2024 15:07:57,06-02-2024 15:08:05,7.492s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Facebook  log in or sign up/select_JanFebMarAprMayJunJulAugSepOctNovDec""), ""4"", true)",Chrome 121.0.0.0,,,06-02-2024 15:08:05,06-02-2024 15:08:10,5.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/label_Male""))",Chrome 121.0.0.0,,,06-02-2024 15:08:10,06-02-2024 15:08:44,33.963s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/button_Sign Up""))",Chrome 121.0.0.0,,,06-02-2024 15:08:44,06-02-2024 15:09:18,33.953s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 15:09:18,06-02-2024 15:09:19,0.394s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 15:09:19,06-02-2024 15:09:19,0.017s,PASSED

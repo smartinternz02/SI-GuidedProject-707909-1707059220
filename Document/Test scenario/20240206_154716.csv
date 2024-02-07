@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+newtest,Chrome 121.0.0.0,,,06-02-2024 15:47:37,06-02-2024 15:48:28,50.547s,PASSED
+,,,,,,,
+Test Cases/TC_FaceBook_Login_001,Chrome 121.0.0.0,,,06-02-2024 15:47:39,06-02-2024 15:48:26,47.474s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 15:47:40,06-02-2024 15:47:40,0.075s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 15:47:40,06-02-2024 15:47:47,6.896s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 121.0.0.0,,,06-02-2024 15:47:47,06-02-2024 15:47:49,1.861s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""))",Chrome 121.0.0.0,,,06-02-2024 15:47:49,06-02-2024 15:47:51,1.782s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""username"")",Chrome 121.0.0.0,,,06-02-2024 15:47:51,06-02-2024 15:47:52,1.564s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), ""password"")",Chrome 121.0.0.0,,,06-02-2024 15:47:52,06-02-2024 15:47:53,0.985s,PASSED
+"click(findTestObject(""Page_Facebook  log in or sign up/button_Log in""))",Chrome 121.0.0.0,,,06-02-2024 15:47:53,06-02-2024 15:48:25,31.716s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 15:48:25,06-02-2024 15:48:26,1.048s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 15:48:26,06-02-2024 15:48:26,0.020s,PASSED
